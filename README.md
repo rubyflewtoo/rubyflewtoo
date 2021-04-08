@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rubyflewtoo
+- 👀 I’m interested in web development mostly. I'm most productive in Ruby and I love my relational databases
+- 🌱 I’m currently learning python and rounding out some more devops knowledge
+- 💞️ I’m looking to collaborate on pretty much anything - say hi
+- 📫 How to reach me rubyflewtoo at gmail
